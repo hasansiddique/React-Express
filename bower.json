@@ -1,0 +1,25 @@
+{
+  "name": "react-express-app",
+  "description": "Building a full stack app with react and express",
+  "main": "index.js",
+  "authors": [
+    "Hasan Siddique"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "express"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^0.14.7"
+  }
+}
