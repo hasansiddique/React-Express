@@ -1,0 +1,8 @@
+.is-purchased {
+    font-weight: bold;
+    text-decoration: line-through;
+}
+
+.delete-item {
+    cursor: pointer;
+}
